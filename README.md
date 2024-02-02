@@ -2,7 +2,6 @@
 
 A simple registation form built with Material UI and Formik.
 
-[Live View (built for demo mode, please see demo branch)](https://imaginative-centaur-68648e.netlify.app/)
 
 <img alt="image" src="https://github.com/galoberlyn/formik-mui-poc/blob/master/src/assets/screenshots/app.png">
 
