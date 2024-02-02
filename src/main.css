@@ -1,0 +1,19 @@
+html {
+  background: url('/public/bg.png');
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.slick-slide img {
+  width: 600px;
+  margin: auto;
+}
+
+.select-image {
+  width: 10%;
+}

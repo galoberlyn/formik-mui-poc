@@ -1,0 +1,25 @@
+{
+    "personalInfo": {
+        "firstName": "Galo",
+        "lastName": "Garlejo",
+        "email": "testemail@test.com"
+    },
+    "businessInfo": {
+        "businessType": {
+            "id": 2,
+            "name": "MidMarket"
+        },
+        "pos": {
+            "id": 12,
+            "name": "Kounta",
+            "imageUrl": "https://placehold.co/600x400/lightblue/black?text=Kounta"
+        },
+        "deliveryChannel": {
+            "id": 2,
+            "name": "Grubhub",
+            "imageUrl": "https://placehold.co/600x400/orange/white?text=Grubhub"
+        },
+        "businessName": "Test business",
+        "businessSize": "1"
+    }
+}
